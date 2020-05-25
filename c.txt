@@ -1,0 +1,9 @@
+a append
+i insert
+o open a line below
+A append after line
+I insert before line
+O open a line above
+bar bar bar
+bar bar bar
+
